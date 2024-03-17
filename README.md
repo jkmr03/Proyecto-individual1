@@ -1,4 +1,4 @@
-# josue-mora-proyecto1
+
 # Proyecto de Data Science: Sistema de Recomendación de Videojuegos 🎮
 [![portada](https://user-images.githubusercontent.com/67664604/217914153-1eb00e25-ac08-4dfa-aaf8-53c09038f082.png "portada")](https://user-images.githubusercontent.com/67664604/217914153-1eb00e25-ac08-4dfa-aaf8-53c09038f082.png "portada")
 ¡Bienvenido a mi proyecto de Data Science centrado en el mundo de los videojuegos! Este proyecto es una amalgama de pasión por los datos y el amor por los videojuegos. Desde la limpieza y exploración de datos hasta el despliegue de un sistema de recomendación, ¡cada paso ha sido emocionante y gratificante!
@@ -68,6 +68,11 @@ Para utilizar el sistema de recomendación y las funciones adicionales, sigue es
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si tienes sugerencias para mejorar este proyecto, por favor crea un pull request o abre un issue para discutir tus ideas.
+
+## Contacto
+Puedes encontrarme en:
+- [GitHub](https://github.com/jkmr03) 🚀
+- [LinkedIn](https://www.linkedin.com/in/josue-mora-8778bb1b7/) 💼
 
 ## Contacto
 
